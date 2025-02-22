@@ -1,0 +1,4 @@
+flask
+pandas
+Flask-Caching
+spacy
